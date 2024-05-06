@@ -1,0 +1,219 @@
+[   
+    {
+        "url":"https://cdn.discordapp.com/attachments/1042540425963131032/1044731199714762863/otp.gif",
+        "name":"item#2",
+        "price":"10.00",
+        "passedData":{
+            "name":"item2",
+            "textTop":"Another interesting item description.",
+            "keyPoints":{
+                "1":"test point A",
+                "2":"test point B",
+                "3":"test point C"
+            },
+            "tags":{
+                "1":"electronics",
+                "2":"New"
+            },
+            "variants":{
+                "1":{
+                    "name":"item#2- variant1",
+                    "price":"item#2- variant1 price 1",
+                    "stock":"50"
+                },
+                "2":{
+                    "name":"item#2- variant2",
+                    "price":"item#2- variant2 price 2",
+                    "stock":"75"
+                }
+            },
+            "price":"10.00"
+        }
+    },
+    {
+        "url":"https://example.com/item3.gif",
+        "name":"item#3",
+        "price":"15.00",
+        "passedData":{
+            "name":"item3",
+            "textTop":"Description for item three.",
+            "keyPoints":{
+                "1":"test point X",
+                "2":"test point Y",
+                "3":"test point Z"
+            },
+            "tags":{
+                "1":"clothing",
+                "2":"Trending"
+            },
+            "variants":{
+                "1":{
+                    "name":"item#3- variant1",
+                    "price":"item#3- variant1 price 1",
+                    "stock":"30"
+                },
+                "2":{
+                    "name":"item#3- variant2",
+                    "price":"item#3- variant2 price 2",
+                    "stock":"40"
+                }
+            },
+            "price":"15.00"
+        }
+    },
+    {
+        "url":"https://example.com/item4.gif",
+        "name":"item#4",
+        "price":"20.00",
+        "passedData":{
+            "name":"item4",
+            "textTop":"Description for item four.",
+            "keyPoints":{
+                "1":"test point P",
+                "2":"test point Q",
+                "3":"test point R"
+            },
+            "tags":{
+                "1":"accessories",
+                "2":"Popular"
+            },
+            "variants":{
+                "1":{
+                    "name":"item#4- variant1",
+                    "price":"item#4- variant1 price 1",
+                    "stock":"20"
+                },
+                "2":{
+                    "name":"item#4- variant2",
+                    "price":"item#4- variant2 price 2",
+                    "stock":"25"
+                }
+            },
+            "price":"20.00"
+        }
+    },
+    {
+        "url":"https://example.com/item5.gif",
+        "name":"item#5",
+        "price":"25.00",
+        "passedData":{
+            "name":"item5",
+            "textTop":"Description for item five.",
+            "keyPoints":{
+                "1":"test point M",
+                "2":"test point N",
+                "3":"test point O"
+            },
+            "tags":{
+                "1":"home decor",
+                "2":"Bestseller"
+            },
+            "variants":{
+                "1":{
+                    "name":"item#5- variant1",
+                    "price":"item#5- variant1 price 1",
+                    "stock":"15"
+                },
+                "2":{
+                    "name":"item#5- variant2",
+                    "price":"item#5- variant2 price 2",
+                    "stock":"20"
+                }
+            },
+            "price":"25.00"
+        }
+    },
+    {
+        "url":"https://example.com/item6.gif",
+        "name":"item#6",
+        "price":"30.00",
+        "passedData":{
+            "name":"item6",
+            "textTop":"Description for item six.",
+            "keyPoints":{
+                "1":"test point D",
+                "2":"test point E",
+                "3":"test point F"
+            },
+            "tags":{
+                "1":"technology",
+                "2":"Limited Edition"
+            },
+            "variants":{
+                "1":{
+                    "name":"item#6- variant1",
+                    "price":"item#6- variant1 price 1",
+                    "stock":"10"
+                },
+                "2":{
+                    "name":"item#6- variant2",
+                    "price":"item#6- variant2 price 2",
+                    "stock":"15"
+                }
+            },
+            "price":"30.00"
+        }
+    },
+    {
+        "url":"https://example.com/item7.gif",
+        "name":"item#7",
+        "price":"35.00",
+        "passedData":{
+            "name":"item7",
+            "textTop":"Description for item seven.",
+            "keyPoints":{
+                "1":"test point U",
+                "2":"test point V",
+                "3":"test point W"
+            },
+            "tags":{
+                "1":"outdoor",
+                "2":"Seasonal"
+            },
+            "variants":{
+                "1":{
+                    "name":"item#7- variant1",
+                    "price":"item#7- variant1 price 1",
+                    "stock":"5"
+                },
+                "2":{
+                    "name":"item#7- variant2",
+                    "price":"item#7- variant2 price 2",
+                    "stock":"10"
+                }
+            },
+            "price":"35.00"
+        }
+    },
+    {
+        "url":"https://example.com/item8.gif",
+        "name":"item#8",
+        "price":"40.00",
+        "passedData":{
+            "name":"item8",
+            "textTop":"Description for item eight.",
+            "keyPoints":{
+                "1":"test point G",
+                "2":"test point H",
+                "3":"test point I"
+            },
+            "tags":{
+                "1":"beauty",
+                "2":"Special Offer"
+            },
+            "variants":{
+                "1":{
+                    "name":"item#8- variant1",
+                    "price":"item#8- variant1 price 1",
+                    "stock":"25"
+                },
+                "2":{
+                    "name":"item#8- variant2",
+                    "price":"item#8- variant2 price 2",
+                    "stock":"30"
+                }
+            },
+            "price":"40.00"
+        }
+    }
+]
